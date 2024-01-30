@@ -1,0 +1,17 @@
+body
+{
+    /* background-image: url(./img/bg-weather.png); */
+    max-width: 1440px;
+}
+.container{
+    max-width: 1065px;
+    padding: 37px 117px;
+}
+.termostat{
+    max-width: 192px;
+    margin-top: 469px;
+    color: #fff;
+}
+.country-name{
+    display: flex;
+}
